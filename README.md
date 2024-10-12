@@ -1,3 +1,6 @@
+![alt text](https://github.com/alexandraelenadumitrescu/Choreist/blob/main/unnamed.png)
+
+
 Choreist is a simple and intuitive task management application designed to help you organize and track your daily to-do lists. With a user-friendly interface built using Python's tkinter library, Choreist makes it easy to add, delete, and manage tasks, all in one place.
 
 Features
